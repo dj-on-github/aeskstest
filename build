@@ -1,0 +1,1 @@
+gcc -I/usr/local/include -m64 -Wall -maes loud_aes128k128d.c aestest.c -o loud_aestest
